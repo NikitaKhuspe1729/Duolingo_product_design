@@ -1,5 +1,7 @@
 # Duolingo_product_design
 Designed new KPIs for Duolingo app using Figma.
+![DUOLINGO](https://github.com/user-attachments/assets/557c0aed-3d77-43dc-9742-9a7b026af355)
+
 # KPI 1:
 **AI Avatars for scenario wise learning for better context understanding and engagement with app** <br>
 How it works:
