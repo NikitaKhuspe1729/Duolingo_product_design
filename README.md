@@ -23,4 +23,15 @@ Users earn points for completing conversations successfully. <br>
 ![DUOLINGO-3](https://github.com/user-attachments/assets/45ae3912-08bc-41f6-a1a8-5ec0bf626f2e)
 
 # KPI 2 : 3D Learning
+How it works: <br>
+The user clicks the “AR Practice” button, which activates their phone’s camera. <br>
+The app scans the area and identifies objects. For example: <br>
+A chair gets labeled “Chair” (and its translation: “Silla” in Spanish). <br>
+A table gets labeled “Table” (and its translation: “Mesa” in Spanish). <br>
+Users tap on the labels to: <br>
+Hear the pronunciation. <br>
+See example sentences (e.g., “This is a table. The table is round.”). <br>
+The app tracks how many new words the user learns during the session. <br>
 ![Group 2](https://github.com/user-attachments/assets/1e9ad1b1-8552-43bc-8a54-c1f749318341)
+**Screens** <br>
+![DUOLINGO-5](https://github.com/user-attachments/assets/f0ec251b-0531-48a9-8f90-04ac94c382b8)
