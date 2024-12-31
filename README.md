@@ -6,8 +6,7 @@ Designed new KPIs for Duolingo app using Figma. <br>
 
 # KPI 1 : Character Learning
 **AI Avatars for scenario wise learning for better context understanding and engagement with app** <br>
-How it works:
-
+How it works: <br>
 The user selects a scenario, like “At a Restaurant.” <br>
 An AI avatar (e.g., a waiter) starts a conversation: <br>
 AI: “Good evening! What can I get for you today?” <br>
@@ -23,4 +22,5 @@ Users earn points for completing conversations successfully. <br>
 ![DUOLINGO-2](https://github.com/user-attachments/assets/6c8d29ea-782a-435e-a4dc-394f7d8cc6c1)
 ![DUOLINGO-3](https://github.com/user-attachments/assets/45ae3912-08bc-41f6-a1a8-5ec0bf626f2e)
 
+# KPI 2 : 3D Learning
 ![Group 2](https://github.com/user-attachments/assets/1e9ad1b1-8552-43bc-8a54-c1f749318341)
