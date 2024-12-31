@@ -35,3 +35,4 @@ The app tracks how many new words the user learns during the session. <br>
 ![Group 2](https://github.com/user-attachments/assets/1e9ad1b1-8552-43bc-8a54-c1f749318341)
 **Screens** <br>
 ![DUOLINGO-5](https://github.com/user-attachments/assets/f0ec251b-0531-48a9-8f90-04ac94c382b8)
+![DUOLINGO-6](https://github.com/user-attachments/assets/fcda37dd-141a-4398-a971-1a019c005145)
