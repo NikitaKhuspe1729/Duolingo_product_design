@@ -1,7 +1,7 @@
 # Duolingo_product_design
 Designed new KPIs for Duolingo app using Figma.
 # KPI 1:
-**AI Avatars for scenario wise learning for better context understanding and engagement with app**
+**AI Avatars for scenario wise learning for better context understanding and engagement with app** <br>
 How it works:
 
 The user selects a scenario, like “At a Restaurant.” <br>
